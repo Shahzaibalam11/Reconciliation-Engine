@@ -28,7 +28,7 @@ Reconciliation Engine - Case Study/
 ├── Gold/
 │   ├── gold_matching_engine.ipynb      ← the seven-rule fold
 │   └── gold_reconciliation.ipynb       ← fact_break + reconciliation_daily
-├── monthly_close_query.ipynb           ← SQL the brief asks for in §6
+├── monthly_close_query.ipynb           ← SQL queries to show monthly close for finance
 └── Sample Data/
     ├── Partner/                        ← per-operator per-date CSVs
     └── Internal/                       ← per-operator-table CSVs
