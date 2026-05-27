@@ -1,0 +1,2 @@
+failure_id,sub_id,user_id,partner_txn_id,failure_reason,attempt_ts_utc,retry_count
+F-3001,S-9001,U-9,A-1009,insufficient_balance,2026-05-20 08:15:00,2

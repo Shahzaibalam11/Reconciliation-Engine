@@ -1,0 +1,4 @@
+partner_reference,account,event,product,value,curr,occurred_at,timezone
+B-2001,254700111111,subscription_success,B_WEEKLY,100.00,KES,2026-05-20 07:00:00,Africa/Nairobi
+B-2002,254700222222,subscription_success,B_WEEKLY,90.00,KES,2026-05-20 08:30:00,Africa/Nairobi
+B-2003,254700333333,subscription_success,B_WEEKLY,100.00,KES,2026-05-20 09:15:00,Africa/Nairobi

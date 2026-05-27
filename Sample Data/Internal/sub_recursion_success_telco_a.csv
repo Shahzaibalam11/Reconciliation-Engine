@@ -1,0 +1,4 @@
+recursion_id,sub_id,user_id,partner_txn_id,amount,recurrence_ts_utc,billing_cycle
+R-7003,S-9001,U-3,A-1003,500.0,2026-05-20 06:30:05,2
+R-7005,S-9001,U-5,A-1005,500.0,2026-05-20 18:45:10,3
+R-7008,S-9001,U-8,A-1008,500.0,2026-05-20 07:00:10,2

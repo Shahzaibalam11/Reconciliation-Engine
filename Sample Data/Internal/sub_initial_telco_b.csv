@@ -1,0 +1,4 @@
+sub_id,user_id,partner_txn_id,status,created_ts_utc,amount
+S-9101,U-101,B-2001,active,2026-05-20 04:00:00,100.0
+S-9102,U-102,B-2002,churned,2026-05-20 05:30:00,100.0
+S-9103,U-103,B-2003,active,2026-05-20 06:15:00,100.0

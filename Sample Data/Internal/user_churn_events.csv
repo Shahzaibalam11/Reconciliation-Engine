@@ -1,0 +1,2 @@
+user_id,operator_code,churn_ts_utc,churn_reason,last_known_sub_id
+U-102,telco_b,2026-05-15 10:00:00,voluntary,S-9102
