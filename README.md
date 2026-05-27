@@ -29,6 +29,9 @@ Reconciliation Engine - Case Study/
 │   ├── gold_matching_engine.ipynb      ← the seven-rule fold
 │   └── gold_reconciliation.ipynb       ← fact_break + reconciliation_daily
 ├── monthly_close_query.ipynb           ← SQL queries to show monthly close for finance
+├── Output Screenshots/                 ← How the End User (Team Finance) would see
+│   ├── Daily_Summary.png
+│   └── Drill_Down.png
 └── Sample Data/
     ├── Partner/                        ← per-operator per-date CSVs
     └── Internal/                       ← per-operator-table CSVs
@@ -67,6 +70,14 @@ Full reasoning is in `DESIGN.md`; one-line summary of each below.
 - **Want to run it?** Follow the steps above; expect ~10 minutes from clone to first mart row.
 - **Want to know what I'd build next?** See `README_future_work.md`.
 
+## Sample outputs
+
+Screenshots from a Fabric run against the sample data shipped here:
+
+- [Daily summary view](Output Screenshots/Daily_Summary.png) — what Finance reads each morning
+- [Drill-down view](Output Screenshots/Drill_Down_view.png) — one row per individual break
+
+Both produced by running `monthly_close_query.ipynb` after the full pipeline.
 ## Tooling note
 
 I used Claude to accelerate parts of this
